@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# Saved media library (created when the program quits)
+media.dat
+
+# macOS
+.DS_Store
